@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Administrators</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:24:16</sys_created_on>
+        <sys_id>0d85e36b1b7333005b598733cc4bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administrators</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_0d85e36b1b7333005b598733cc4bcbbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:24:16</sys_updated_on>
+        <title>Administrators</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a815ed78dbcf3f004d2bac44d496194a</instance_id>
+        <instance_name>dev90165</instance_name>
+        <name>sys_ui_view_0d85e36b1b7333005b598733cc4bcbbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>Administrators</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-16 14:24:16</sys_created_on><sys_id>0d85e36b1b7333005b598733cc4bcbbe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Administrators</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_view_0d85e36b1b7333005b598733cc4bcbbe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 14:24:16</sys_updated_on><title>Administrators</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-1574388739</payload_hash>
+        <record_name>Administrators</record_name>
+        <reverted_from/>
+        <source>61c95f2b1b3333005b598733cc4bcb01</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:24:16</sys_created_on>
+        <sys_id>8985e36b1b7333005b598733cc4bcbc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d3a75b6f30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:24:16</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>c185e36b7a733300f266ccf480f588c0</update_guid>
+        <update_guid_history>c185e36b7a733300f266ccf480f588c0:-1574388739</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:29:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>123f50c2f58a4831ab57b18f8f418f31</sys_id>
+        <sys_metadata>0d85e36b1b7333005b598733cc4bcbbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administrators</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_0d85e36b1b7333005b598733cc4bcbbe</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_0d85e36b1b7333005b598733cc4bcbbe">8985e36b1b7333005b598733cc4bcbc0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:29:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
